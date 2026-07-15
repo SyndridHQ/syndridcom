@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04070c"/>
+      <stop offset=".55" stop-color="#0c1724"/>
+      <stop offset="1" stop-color="#8a4428"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="970" cy="360" r="120" fill="#f2c94c" opacity=".18"/>
+  <rect x="118" y="88" width="964" height="454" rx="18" fill="#070a0e" opacity=".92" stroke="#d8d9d5" stroke-opacity=".2"/>
+  <circle cx="155" cy="122" r="8" fill="#f45d57"/>
+  <circle cx="181" cy="122" r="8" fill="#e8b746"/>
+  <circle cx="207" cy="122" r="8" fill="#55bf61"/>
+  <text x="172" y="222" fill="#f2c94c" font-family="monospace" font-size="24">DEVELOPER INFRASTRUCTURE</text>
+  <text x="172" y="316" fill="#f1f1ee" font-family="monospace" font-size="58">Infrastructure for</text>
+  <text x="172" y="388" fill="#f1f1ee" font-family="monospace" font-size="58">intelligent systems.</text>
+  <text x="172" y="468" fill="#aaa9a5" font-family="monospace" font-size="24">syndrid.com</text>
+</svg>
